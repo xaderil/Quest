@@ -1,0 +1,26 @@
+{
+  "name": "quest",
+  "version": "1.0.0",
+  "description": "quest",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xaderil/quest.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xaderil/quest/issues"
+  },
+  "homepage": "https://github.com/xaderil/quest#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "ejs": "^2.6.1",
+    "eslint": "^5.1.0",
+    "eslint-plugin-node": "^6.0.1",
+    "express": "^4.16.3"
+  }
+}
